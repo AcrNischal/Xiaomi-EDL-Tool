@@ -101,10 +101,10 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Screenshots
 
 **Main Window:**
-![Main Window](https://your-screenshot-url-here) <!-- Replace with your actual screenshot URL -->
+![Main Window](ActivityWindow.png) 
 
 **Log Window:**
-![Log Window](https://your-screenshot-url-here) <!-- Replace with your actual screenshot URL -->
+![Log Window](https://your-screenshot-url-here) 
 
 ## FAQs
 
