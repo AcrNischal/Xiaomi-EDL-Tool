@@ -34,7 +34,7 @@ It uses a **vendor ID** (`05c6:9008`) specific to Xiaomi devices in EDL mode.
 
    ```bash
    python3 -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scriptsctivate`
+   source venv/bin/activate
    ```
 
 3. Install required dependencies:
