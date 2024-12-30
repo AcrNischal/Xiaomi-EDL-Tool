@@ -101,7 +101,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Screenshots
 
 **Main Window:**
-![Main Window](ActivityWindow.png) 
+![Main Window](MainWindow.png) 
 
 **Log Window:**
 ![Log Window](ActivityWindow.png) 
