@@ -93,8 +93,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Contact
 
 - **Creator**: [Nishchal Acharya](https://nishchalacharya.com.np/)
-- **Twitter**: [@nishchalacharya](https://twitter.com/nishchalacharya)
-- **LinkedIn**: [Nishchal Acharya](https://www.linkedin.com/in/nishchal-acharya/)
+- **Twitter**: [@nishchal_acc](https://x.com/nishchal_acc)
+- **LinkedIn**: [Nishchal Acharya](https://www.linkedin.com/in/nishchalacharya/)
 - **GitHub**: [Nishchal-Acharya](https://github.com/Nischal-Acharya)
 - **Portfolio**: [nishchalacharya.com.np](https://nishchalacharya.com.np/)
 
