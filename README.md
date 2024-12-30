@@ -1,7 +1,7 @@
 
 # Xiaomi EDL Tool 🚀
 
-![Xiaomi EDL Tool Logo](https://your-logo-url-here) <!-- Replace with your logo URL -->
+![Xiaomi EDL Tool Logo](XIAOMI%20EMERGENCY%20DOWNLOAD.png) 
 
 A simple Python-based tool for interacting with Xiaomi devices in **EDL mode** and other useful functionalities like ADB and Fastboot operations. This tool helps in detecting Xiaomi devices in **Emergency Download Mode (EDL)**, listing connected USB devices, and rebooting Xiaomi devices into EDL mode.
 
