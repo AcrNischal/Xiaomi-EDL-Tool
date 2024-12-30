@@ -71,7 +71,7 @@ It uses a **vendor ID** (`05c6:9008`) specific to Xiaomi devices in EDL mode.
    - **Stop Checking**: Stop the continuous EDL mode checking.
 
 ### About Section
-This tool was developed by **Nishchal Acharya**, the founder of [Hackfie](https://hackfie.com). It's built to simplify the process of managing Xiaomi devices in **EDL Mode** and to make working with ADB and Fastboot operations more accessible.
+This tool was developed by **Nishchal Acharya (ME)**. It's built to simplify the process of managing Xiaomi devices in **EDL Mode** and to make working with ADB and Fastboot operations more accessible.
 
 ## Contributing
 
