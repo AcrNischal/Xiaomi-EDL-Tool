@@ -104,7 +104,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ![Main Window](ActivityWindow.png) 
 
 **Log Window:**
-![Log Window](https://your-screenshot-url-here) 
+![Log Window](ActivityWindow.png) 
 
 ## FAQs
 
