@@ -18,16 +18,15 @@ This tool is designed to work with **Xiaomi** devices, particularly for detectin
 It uses a **vendor ID** (`05c6:9008`) specific to Xiaomi devices in EDL mode.
 
 ### Supported Platforms
-- **Windows**
 - **Linux**
-- **macOS**
+
 
 ## Installation
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-github-username/xiaomi-edl-tool.git
+   git clone https://github.com/Nischal-Acharya/xiaomi-edl-tool.git
    cd xiaomi-edl-tool
    ```
 
