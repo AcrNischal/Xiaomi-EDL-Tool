@@ -3,14 +3,16 @@
 
 ![Xiaomi EDL Tool Logo](XIAOMI%20EMERGENCY%20DOWNLOAD.png) 
 
-A simple Python-based tool for interacting with Xiaomi devices in **EDL mode** and other useful functionalities like ADB and Fastboot operations. This tool helps in detecting Xiaomi devices in **Emergency Download Mode (EDL)**, listing connected USB devices, and rebooting Xiaomi devices into EDL mode.
-
 <p align="center">
   <a href="https://github.com/Nischal-Acharya/Xiaomi-EDL-Tool/graphs/contributors"><img src="https://img.shields.io/github/contributors/Nischal-Acharya/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
   <a href="https://github.com/Nischal-Acharya/Xiaomi-EDL-Tool/stargazers"><img src="https://img.shields.io/github/stars/Nischal-Acharya/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
   <a href="https://github.com/Nischal-Acharya/Xiaomi-EDL-Tool/forks"><img src="https://img.shields.io/github/stars/Nischal-Acharya/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
   <a href="https://github.com/Nischal-Acharya/Xiaomi-EDL-Tool/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nischal-Acharya/Xiaomi-EDL-Tool?style=for-the-badge&color=purple" /></a>
 </p>
+
+A simple Python-based tool for interacting with Xiaomi devices in **EDL mode** and other useful functionalities like ADB and Fastboot operations. This tool helps in detecting Xiaomi devices in **Emergency Download Mode (EDL)**, listing connected USB devices, and rebooting Xiaomi devices into EDL mode.
+
+
 
 ## Features
 - **Check Xiaomi Devices in EDL Mode**: Continuously checks if a Xiaomi device is connected in EDL mode.
