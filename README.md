@@ -16,9 +16,7 @@ A simple Python-based tool for interacting with Xiaomi devices in **EDL mode** a
   <a href="https://github.com/Nischal-Acharya/Xiaomi-EDL-Tool/forks"><img src="https://img.shields.io/github/stars/Nischal-Acharya/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
   <a href="https://github.com/Nischal-Acharya/Xiaomi-EDL-Tool/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nischal-Acharya/Xiaomi-EDL-Tool?style=for-the-badge&color=purple" /></a>
 </p>
-#
-#
-#
+
 
 ## Features
 - **Check Xiaomi Devices in EDL Mode**: Continuously checks if a Xiaomi device is connected in EDL mode.
