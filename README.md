@@ -32,6 +32,7 @@ It uses a **vendor ID** (`05c6:9008`) specific to Xiaomi devices in EDL mode.
 
 ### Supported Platforms
 - **Linux**
+  <br>
   <img src="https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux" />
 
 
