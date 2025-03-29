@@ -11,10 +11,10 @@ A simple Python-based tool for interacting with Xiaomi devices in **EDL mode** a
 #
 
 <p align="center">
-  <a href="https://github.com/Nischal-Acharya/Xiaomi-EDL-Tool/graphs/contributors"><img src="https://img.shields.io/github/contributors/Nischal-Acharya/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
-  <a href="https://github.com/Nischal-Acharya/Xiaomi-EDL-Tool/stargazers"><img src="https://img.shields.io/github/stars/Nischal-Acharya/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
-  <a href="https://github.com/Nischal-Acharya/Xiaomi-EDL-Tool/forks"><img src="https://img.shields.io/github/stars/Nischal-Acharya/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
-  <a href="https://github.com/Nischal-Acharya/Xiaomi-EDL-Tool/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nischal-Acharya/Xiaomi-EDL-Tool?style=for-the-badge&color=purple" /></a>
+  <a href="https://github.com/AcrNischal/Xiaomi-EDL-Tool/graphs/contributors"><img src="https://img.shields.io/github/contributors/AcrNischal/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
+  <a href="https://github.com/AcrNischal/Xiaomi-EDL-Tool/stargazers"><img src="https://img.shields.io/github/stars/AcrNischal/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
+  <a href="https://github.com/AcrNischal/Xiaomi-EDL-Tool/forks"><img src="https://img.shields.io/github/stars/AcrNischal/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
+  <a href="https://github.com/AcrNischal/Xiaomi-EDL-Tool/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AcrNischal/Xiaomi-EDL-Tool?style=for-the-badge&color=purple" /></a>
 </p>
 
 
@@ -41,7 +41,7 @@ It uses a **vendor ID** (`05c6:9008`) specific to Xiaomi devices in EDL mode.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Nischal-Acharya/xiaomi-edl-tool.git
+   git clone https://github.com/AcrNischal/xiaomi-edl-tool.git
    cd xiaomi-edl-tool
    ```
 
@@ -110,7 +110,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Creator**: [Nishchal Acharya](https://nishchalacharya.com.np/)
 - **Twitter**: [@nishchal_acc](https://x.com/nishchal_acc)
 - **LinkedIn**: [Nishchal Acharya](https://www.linkedin.com/in/nishchalacharya/)
-- **GitHub**: [Nishchal-Acharya](https://github.com/Nischal-Acharya)
+- **GitHub**: [Nishchal-Acharya](https://github.com/AcrNischal)
 - **Portfolio**: [nishchalacharya.com.np](https://nishchalacharya.com.np/)
 
 ## Screenshots
