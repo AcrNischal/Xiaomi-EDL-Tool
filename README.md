@@ -11,7 +11,9 @@ A simple Python-based tool for interacting with Xiaomi devices in **EDL mode** a
 #
 
 <p align="center">
-  ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+ 
+  <img src="https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white" />
+  <br/>
   <a href="https://github.com/AcrNischal/Xiaomi-EDL-Tool/graphs/contributors"><img src="https://img.shields.io/github/contributors/AcrNischal/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
   <a href="https://github.com/AcrNischal/Xiaomi-EDL-Tool/stargazers"><img src="https://img.shields.io/github/stars/AcrNischal/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
   <a href="https://github.com/AcrNischal/Xiaomi-EDL-Tool/forks"><img src="https://img.shields.io/github/stars/AcrNischal/Xiaomi-EDL-Tool?style=for-the-badge" /></a>
