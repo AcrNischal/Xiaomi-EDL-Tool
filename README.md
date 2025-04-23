@@ -110,10 +110,10 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 
-- **Creator**: [Nishchal Acharya](https://nishchalacharya.com.np/)
+- **Email**: [nismsg1@gmail.com](mailto:nismsg1@gmail.com)
 - **Twitter**: [@AcrNischal](https://x.com/AcrNischal)
-- **LinkedIn**: [Nishchal Acharya](https://www.linkedin.com/in/nishchalacharya/)
-- **GitHub**: [Nishchal-Acharya](https://github.com/AcrNischal)
+- **LinkedIn**: [@nishchalacharya](https://www.linkedin.com/in/nishchalacharya/)
+- **GitHub**: [@AcrNischal](https://github.com/AcrNischal)
 - **Portfolio**: [nishchalacharya.com.np](https://nishchalacharya.com.np/)
 
 ## Screenshots
